@@ -11,3 +11,4 @@ Created a Play button with a custom image for triggering the text-to-speech conv
 Successfully managed the layout and placement of various GUI elements to ensure a cohesive and responsive user interface.
 Contributed to enhancing accessibility and usability by providing options for voice gender and speech speed customization.
 Showcased strong skills in GUI design, image manipulation, and integrating external libraries into a functional application.
+![Screenshot 2023-09-17 232708](https://github.com/sharmaji264/Text-to-Speech-Converter/assets/96777568/159a5c50-40c5-431f-82c8-a945a7f531a0)
